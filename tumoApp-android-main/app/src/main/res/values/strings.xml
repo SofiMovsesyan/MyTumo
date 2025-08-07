@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyTumo</string>
+    <string name="login_text">Add your TUMO account details</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_error">🤔\n\nUsername or Password incorrect!</string>
+    <string name="ok_button">OK</string>
+    <string name="enter_button">Enter</string>
+    <string name="my_account">ԻՄ ՀԱՇԻՎԸ</string>
+    <string name="coach">Մարզիչ</string>
+    <string name="extra_slot">Լրացուցիչ Դասաժամ</string>
+    <string name="my_attendances">Իմ Հաճախումները</string>
+    <string name="my_progress">Իմ Առաջընթացը</string>
+    <string name="workshop">Դասընթաց</string>
+    <string name="activity">Վարժանք</string>
+    <string name="activity_workshop">Վարժ. Դաս.</string>
+    <string name="see_more">Տեսնել ավելին</string>
+    <string name="settings">Կարգավորումներ</string>
+    <string name="passed">Անցած</string>
+    <string name="failed">Չանցած</string>
+    <string name="extra_reservation">Լրացուցիչ Դասաժամ</string>
+    <string name="from_tumo">Թումոյից</string>
+    <string name="from_home">Տանից</string>
+    <string name="workshop_schedule">Դասընթացներ\n դասաժամեր</string>
+    <string name="self_learning_schedule">Ինքնուսուցման դասաժամեր</string>
+    <string name="additional_dates">Լրացուցիչ դասաժամեր</string>
+    <string name="my_schedule_title">ԻՄ ԴԱՍԱՑՈՒՑԱԿ</string>
+    <string name="schedule_hours_button">Դասաժամեր</string>
+    <string name="prerequisite_title">Նախապայման</string>
+    <string name="exercise_button">Վարժանք</string>
+    <string name="choose_time">Ընտրիր Դասաժամերից քեզ հարմարը</string>
+    <string name="learning_lab">ԱՇԽԱՏԱՐԱՆՆԵՐ</string>
+    <string name="workshops">Աշխատարաններ</string>
+</resources>
